@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>coworkings-mobile</name>
+    </assembly>
+    <members>
+        <member name="T:coworkings_mobile.Resources.Languages.AppResources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.AccountUpdatedSuccessMessage">
+            <summary>
+              Looks up a localized string similar to Updated successfully.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.AccountUpdateErrorMessage">
+            <summary>
+              Looks up a localized string similar to Update failed.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.BookingCodeLabel">
+            <summary>
+              Looks up a localized string similar to Code.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.BookingsTab">
+            <summary>
+              Looks up a localized string similar to Bookings.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.BookingsTitle">
+            <summary>
+              Looks up a localized string similar to Bookings.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.BookingTitle">
+            <summary>
+              Looks up a localized string similar to Bookings.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.CurrentBookingTab">
+            <summary>
+              Looks up a localized string similar to Current booking.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.CurrentBookingTitle">
+            <summary>
+              Looks up a localized string similar to Current booking.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.EditButtonText">
+            <summary>
+              Looks up a localized string similar to Edit.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.EditUserTitle">
+            <summary>
+              Looks up a localized string similar to Edit User.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.EmailLabel">
+            <summary>
+              Looks up a localized string similar to Email.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.EmailLabelTitle">
+            <summary>
+              Looks up a localized string similar to Email.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.EmailPlaceholder">
+            <summary>
+              Looks up a localized string similar to Email.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.EndDateLabel">
+            <summary>
+              Looks up a localized string similar to End date.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.EndTimeLabel">
+            <summary>
+              Looks up a localized string similar to End time.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.ErrorTitle">
+            <summary>
+              Looks up a localized string similar to Error.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.FullNameLabel">
+            <summary>
+              Looks up a localized string similar to Full name.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.FullNameLabelTitle">
+            <summary>
+              Looks up a localized string similar to Full name.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.FullNamePlaceholder">
+            <summary>
+              Looks up a localized string similar to Full name.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.GoBackButtonText">
+            <summary>
+              Looks up a localized string similar to Back.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.LanguageSelectionTitle">
+            <summary>
+              Looks up a localized string similar to Language.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.LoginButtonText">
+            <summary>
+              Looks up a localized string similar to Login.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.LoginPlaceholder">
+            <summary>
+              Looks up a localized string similar to Login.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.LogoutButtonText">
+            <summary>
+              Looks up a localized string similar to Logout.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.MainDescriptionText">
+            <summary>
+              Looks up a localized string similar to Enjoy!.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.MainTitleText">
+            <summary>
+              Looks up a localized string similar to Program system for coworkings.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.NoCurrentBookingMessage">
+            <summary>
+              Looks up a localized string similar to No Current Booking.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.PasswordPlaceholder">
+            <summary>
+              Looks up a localized string similar to Password.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.RegisterButtonText">
+            <summary>
+              Looks up a localized string similar to Registration.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.SaveChangesButtonText">
+            <summary>
+              Looks up a localized string similar to Save.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.StartDateLabel">
+            <summary>
+              Looks up a localized string similar to Start date.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.StartTimeLabel">
+            <summary>
+              Looks up a localized string similar to Start time.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.SuccessTitle">
+            <summary>
+              Looks up a localized string similar to Success.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.UserAccountTab">
+            <summary>
+              Looks up a localized string similar to User Account.
+            </summary>
+        </member>
+        <member name="P:coworkings_mobile.Resources.Languages.AppResources.UserAccountTitle">
+            <summary>
+              Looks up a localized string similar to User Account.
+            </summary>
+        </member>
+    </members>
+</doc>
